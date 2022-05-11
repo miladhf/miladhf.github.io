@@ -64817,7 +64817,7 @@ case 1:return A.Y(q,r)}})
 return A.Z($async$qy,r)},
 YN(){var s=$.i3()
 $.u5().toString
-s.fI("open",["https://www.linkedin.com/in/milad-haselforoush-787000217/"])},
+s.fI("open",["https://www.linkedin.com/in/milad-haselforoush/"])},
 YH(){var s=$.i3()
 $.u5().toString
 s.fI("open",["https://github.com/miladhf"])},
